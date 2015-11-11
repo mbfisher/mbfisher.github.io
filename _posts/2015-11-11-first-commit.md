@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  First Commit
+featured: true
 excerpt: "Welcome to the new site!"
 categories: posts
 image:
