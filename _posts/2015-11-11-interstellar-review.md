@@ -8,7 +8,7 @@ image:
     file: interstellar-gargantua.jpg
   feature:
     file: interstellar-landscape.jpg
-    topPosition: -300px
+    topPosition: -250px
 bgContrast: dark
 bgGradientOpacity: lighter
 syntaxHighlighter: no
